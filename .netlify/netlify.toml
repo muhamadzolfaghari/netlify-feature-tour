@@ -1,0 +1,30 @@
+functionsDirectory = "C:\\Users\\Muhamad\\netlify-feature-tour\\netlify\\functions"
+functionsDirectoryOrigin = "config-v1"
+plugins = []
+headers = []
+redirects = []
+
+[build]
+publish = "C:\\Users\\Muhamad\\netlify-feature-tour\\.next"
+publishOrigin = "config"
+command = "next build"
+commandOrigin = "config"
+functions = "C:\\Users\\Muhamad\\netlify-feature-tour\\netlify\\functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[functions]
+
+[functions."*"]
