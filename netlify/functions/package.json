@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^2.7.0",
+    "install": "^0.13.0",
+    "npm": "^10.8.1"
+  }
 }
